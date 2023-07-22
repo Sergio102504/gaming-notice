@@ -1,0 +1,7 @@
+body {
+    background-image: url('./image/2games.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* Otros estilos del cuerpo si los necesitas */
+  }
